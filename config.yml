@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🌐 Website
+    url: https://errpatch.vercel.app
+    about: Browse docs and search errors on errPatch.
+  - name: 💬 Discussions
+    url: https://github.com/<kullanıcı>/errpatch-requests/discussions
+    about: Questions and general ideas.
