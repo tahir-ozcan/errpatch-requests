@@ -4,8 +4,8 @@ Public issue tracker for **errPatch** — bug reports, feature ideas, and new do
 **No source code here.** The app’s codebase is private; this repository only collects community feedback.
 
 - Website: https://errpatch.vercel.app
-- Open an issue: https://github.com/<YOUR-USER>/errpatch-requests/issues/new/choose
-- Discussions (optional): https://github.com/<YOUR-USER>/errpatch-requests/discussions
+- Open an issue: https://github.com/tahir-ozcan/errpatch-requests/issues/new/choose
+- Discussions (optional): https://github.com/tahir-ozcan/errpatch-requests/discussions
 
 ## What belongs here?
 
